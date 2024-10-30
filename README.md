@@ -1,4 +1,4 @@
 # Demo_
 This is my first repository.
 <br>
-Author_ Mahzaib
+Author_ MahzaibIqbal
